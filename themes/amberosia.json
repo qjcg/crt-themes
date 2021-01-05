@@ -1,4 +1,5 @@
 {
+  "version": 2,
   "ambientLight": 0.16,
   "backgroundColor": "#000000",
   "bloom": 0.65,
